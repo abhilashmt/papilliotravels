@@ -956,7 +956,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 1024px) {
   .cid-s7J3qY5WsS .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.2rem);
+    max-height: calc(98.5vh - 8rem);
   }
 }
 .cid-s7J3qY5WsS .collapsed button.navbar-toggler {
@@ -1129,6 +1129,7 @@ section.lazy-placeholder:after {
 }
 .cid-s7J9SgaikW H3 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-s7J9SgaikW .mbr-text,
 .cid-s7J9SgaikW .mbr-section-btn {
